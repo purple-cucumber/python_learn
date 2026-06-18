@@ -11,3 +11,4 @@ place.sort()
 print(place)
 place.sort(reverse=True)
 print(place)
+#3-11题目
