@@ -1,6 +1,7 @@
 from pathlib import Path
 import json
 path  = Path('hw10_4/favourite_num.json')
+#不要忘了（）
 if path.exists():
     content  = path.read_text()
     num = json.loads(content)

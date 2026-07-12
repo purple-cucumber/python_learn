@@ -9,9 +9,9 @@
 # make_shirts(12)
 # make_shirts(14,'silly')
 # 8.5
-def describe_city(city="guangzhou",country='china'):
-    print(f"{city} is in {country}.")
-describe_city()
-describe_city('tokyo','japan')
-describe_city(country='America')
+# def describe_city(city="guangzhou",country='[china]'):
+#     print(f"{city} is in {country}.")
+# describe_city()
+# describe_city('tokyo','japan')
+# describe_city(country='America')
     

@@ -6,3 +6,4 @@ resturant_1.describe_resturant()
 from class_learn import Admin
 Admin1 = Admin('lili','yan','female')
 Admin1.privileges.show_privileges()
+# 9.12
